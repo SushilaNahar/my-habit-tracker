@@ -1,0 +1,22 @@
+{
+  "name": "The Observer",
+  "short_name": "The Observer",
+  "description": "Self observation and reflection journal",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FDFAF5",
+  "theme_color": "#2C5F6E",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "observer-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "observer-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
